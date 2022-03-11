@@ -51,13 +51,8 @@ p {
   font-size: 25px;
   font-style: italic;
 }
-
-.link-medium {
-    background-image: linear-gradient(to bottom, rgba(233, 253, 240, 1), rgba(233, 253, 240, 1));
-    color: #636363;
-    font-weight: lighter;
-    font-size: 25px;
-    font-style: italic;
+a.link-medium:hover {
+  background-image: linear-gradient(to bottom, rgb(209 236 218), rgb(199 238 213));
 }
 a {
     text-decoration: none;
