@@ -51,7 +51,7 @@ p {
   font-size: 25px;
   font-style: italic;
 }
-a.link-medium:hover {
+.link-medium:hover {
   background-image: linear-gradient(to bottom, rgb(209 236 218), rgb(199 238 213));
 }
 a {
